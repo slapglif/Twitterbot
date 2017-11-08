@@ -9,20 +9,12 @@ from datetime import datetime, timedelta
 keywords = [ 'giveaway']
 target='fazeclan'
 
-#consumer_key='7JXneTeelyGGLTnpvX9lx4goV'.encode('utf-8')
-#consumer_secret='C0zkKjnMoOuV33Xyu2SD6TKQou83AgfgLzyhpg8U9TuepPpZZB'.encode('utf-8')
-#access_token_key='4830755407-lr0zDR668yOrzuxChLzu1UQPJuHB7Q38yuYE4Zb'.encode('utf-8')
-#access_token_secret='Mhn4jYFLcfWUxrr9G0vUCoCVjl0a6pughaRKMC4ki2BfB'.encode('utf-8')
 
-#consumer_key='fQvmpVouNClJ6zTLa7hrKYIlr'.encode('utf-8')
-#consumer_secret='9SxBtXctnhcrpbEoIQrPdUpMINbw2Xqo1abGQtoxeNGb6SLSRM'.encode('utf-8')
-#access_token_key='728775944526135296-Kzz6IowX3y3zCRO1AEfz00i6QgcqQWz'.encode('utf-8')
-#access_token_secret='xK41B0XOPviRTRNxiiCDAaRECJ7MxgnQSibtXahueQlCj'.encode('utf-8')
 
-consumer_key='uxBmawWEz6ydrbFSAzxpSPPHO'.encode('utf-8')
-consumer_secret='T0BweLJ2nuecO9eT2XBwBQFiSXtDYutGS8Czw9NU3BhKU6oe8Q'.encode('utf-8')
-access_token_key='450343259-gejUZ89uf8032nM7UiuyGSXK1ANDJHOEOcxEwLd7'.encode('utf-8')
-access_token_secret='4ttVZ6V1CGi8zE9e9p2kDy4fiYK99faPU8GXJ8PjOIus9'.encode('utf-8')
+consumer_key='xxxx'.encode('utf-8')
+consumer_secret='xxxx'.encode('utf-8')
+access_token_key='xxxx-xxxx'.encode('utf-8')
+access_token_secret='xxxx'.encode('utf-8')
 
 
 
